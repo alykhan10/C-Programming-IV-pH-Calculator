@@ -21,7 +21,7 @@
  #define ACIDITY_THRESHOLD 6.5							// Define the power of Hydrogen (pH) limit for which a solution is acidic.
  #define ALKALINITY_THRESHOLD 7.5						// Define the power of Hydrogen (pH) limit for which a solution is alkaline.
  
- #define MAX_COUNT 3									// Define the maximum number of loop iterations..
+ #define MAX_COUNT 3									// Define the maximum number of loop iterations.
  
  int main( void )
  {   
